@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: lightyellow;
+}
+
+#about {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+#contact {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
